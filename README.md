@@ -10,9 +10,9 @@ The FlipKart Product Recommendation Bot is an AI-driven chatbot designed to assi
 * Responsive Design: User-friendly interface that adapts to various screen sizes.
 
 ### Screenshots
-<img width="800" height="400" align="center" src="/screenshots/sample_image1.png">
-<img width="800" height="400" align="center" src="/screenshots/sample_image2.png">
-<img width="800" height="400" align="center" src="/screenshots/sample_image3.png">
+<img width="600" height="400" align="center" src="/screenshots/sample_image1.png">
+<img width="600" height="400" align="center" src="/screenshots/sample_image2.png">
+<img width="600" height="400" align="center" src="/screenshots/sample_image3.png">
 
 ### Technologies used in this project
 * Python: Core programming language for development.
