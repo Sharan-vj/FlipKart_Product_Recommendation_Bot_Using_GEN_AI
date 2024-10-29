@@ -1,0 +1,11 @@
+datasets
+langchain
+langchain-astradb
+langchain-community
+langchain-groq
+langchain_openai
+pypdf
+python-dotenv
+pandas
+flask
+-e .
